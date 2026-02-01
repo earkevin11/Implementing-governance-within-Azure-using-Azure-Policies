@@ -9,3 +9,18 @@
 
 
 # Allowed Resources
+
+
+
+
+# Not allowed resource types
+
+
+
+
+# Deny creation of Azure resources that allow public access from all networks (key vaults and storage accounts)
+
+
+
+
+# Configure logging (diagnostic settings) for Azure resources to ensure monitoring/audit
