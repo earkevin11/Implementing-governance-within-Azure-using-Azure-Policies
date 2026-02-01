@@ -9,7 +9,7 @@
 
 
 # Allowed Resources
-
+[Azure Policy - Allowed Resources](https://github.com/earkevin11/Azure-Policy-Allowed-Resources)
 
 
 
