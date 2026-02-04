@@ -1,5 +1,6 @@
 # Implementing-governance-within-Azure-using-Azure-Policies
 
+
 # End Goal: Enforce secure by default architecture within an Azure environment
 - Benefits of using Azure Policy
 - 1. Enforce governance of Azure resources (what types of resources are allowed/not allowed to be created in an Azure subscription)
@@ -9,6 +10,7 @@
 
 
 # Allowed Resources
+- IMPORTANT: You cannot exclude Entra ID objects (Entra ID users and groups frmo an Azure Policy)
 - [Azure Policy - Allowed Resources](https://github.com/earkevin11/Azure-Policy-Allowed-Resources)
 
 
