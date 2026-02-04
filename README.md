@@ -16,12 +16,3 @@
 # Not allowed resource types
 
 
-
-
-# Deny creation of Azure resources that allow public access from all networks (key vaults and storage accounts)
-- [Azure Policy - Deny creation of resources if public access from all networks is enabled](https://github.com/earkevin11/Azure-Policy---Deny-creation-of-Azure-resources-from-allowing-public-access-from-all-networks)
-
-
-
-
-# Configure logging (diagnostic settings) for Azure resources to ensure monitoring/audit
