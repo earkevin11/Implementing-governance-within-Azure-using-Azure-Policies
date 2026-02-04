@@ -10,7 +10,7 @@
 
 
 # Allowed Resources
-- IMPORTANT: You cannot exclude Entra ID objects (Entra ID users and groups frmo an Azure Policy)
+- <b> IMPORTANT: You cannot exclude Entra ID objects (Entra ID users and groups frmo an Azure Policy) </b>
 - [Azure Policy - Allowed Resources](https://github.com/earkevin11/Azure-Policy-Allowed-Resources)
 
 
